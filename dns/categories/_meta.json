@@ -1,0 +1,68 @@
+{
+  "allowlist_count": 5438,
+  "categories": {
+    "ads": {
+      "domains": 1202350,
+      "lines": 2404700,
+      "parts": 2
+    },
+    "crypto": {
+      "domains": 127299,
+      "lines": 254598,
+      "parts": 1
+    },
+    "cryptoscams": {
+      "domains": 1369866,
+      "lines": 2739732,
+      "parts": 3
+    },
+    "custom": {
+      "domains": 5,
+      "lines": 10,
+      "parts": 1
+    },
+    "gambling": {
+      "domains": 2678002,
+      "lines": 5356004,
+      "parts": 4
+    },
+    "malware": {
+      "domains": 1728259,
+      "lines": 3456518,
+      "parts": 3
+    },
+    "phishing": {
+      "domains": 0,
+      "lines": 0,
+      "parts": 1
+    },
+    "porn": {
+      "domains": 7511638,
+      "lines": 15023276,
+      "parts": 12
+    },
+    "scam": {
+      "domains": 15,
+      "lines": 30,
+      "parts": 1
+    },
+    "spyware": {
+      "domains": 0,
+      "lines": 0,
+      "parts": 1
+    },
+    "telemetry": {
+      "domains": 16,
+      "lines": 32,
+      "parts": 1
+    },
+    "trackers": {
+      "domains": 1219649,
+      "lines": 2439298,
+      "parts": 2
+    }
+  },
+  "git_sha": "6d6ee1c",
+  "max_part_bytes": 52428800,
+  "time_utc": "2026-02-11T01:31:32Z"
+}

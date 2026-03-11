@@ -1,26 +1,26 @@
 {
-  "generated_utc": "2026-03-10T21:49:53Z",
+  "generated_utc": "2026-03-11T01:24:22Z",
   "max_part_bytes": 47185920,
   "categories": {
     "ads": {
-      "domains": 1252030,
+      "domains": 1252046,
       "parts": 3,
-      "sha256": "8ce5883a8b138dbd0988c4fbea952e166173ddab8eee79a79be8eb4adb08967d"
+      "sha256": "816bb1393c23ac52a861f5b3410524b386e8ef7da2c98acd5294cecafcf73432"
     },
     "trackers": {
-      "domains": 1358272,
+      "domains": 1358271,
       "parts": 3,
-      "sha256": "5a9213fee13cb6de6dcae529a60d770bdd191b755a9f4ea2f6bb45027aa9003b"
+      "sha256": "c45b3516669772b89aa28958c969f240dd2673157e57fc6a9999977359d45095"
     },
     "telemetry": {
-      "domains": 81,
+      "domains": 74,
       "parts": 1,
-      "sha256": "788aa52303d8c0752a2b7d7b42d147b18901ebc80256ee9b016a256b2be7f574"
+      "sha256": "421d09b496f610e6f7b25aa39128ed2f6a999a161bbd16a9cc5c9ed1fac4d527"
     },
     "malware": {
-      "domains": 1764558,
+      "domains": 1764560,
       "parts": 3,
-      "sha256": "a4f2c49f6009f02603a89183d1718213f36305d02108f1c4b0de0a3c8b1d5079"
+      "sha256": "29ba1b74a5601a6a0dfec0c50a073a0782a9590c40cae7d305463f2978a75e29"
     },
     "phishing": {
       "domains": 3,
@@ -28,9 +28,9 @@
       "sha256": "a6e9c88b61e6bc8abb558d34e06034919ddb0780a5c99173639f985cfd25748a"
     },
     "scam": {
-      "domains": 17,
+      "domains": 8,
       "parts": 1,
-      "sha256": "e764b9f31db16bb201f222ed933267b5b1e8db6502644ab04b672b626da2f9c3"
+      "sha256": "2ea99fbc754e6a542bb7fa54a21b5f98b7dbafb4d58f31f7aaa332d451737633"
     },
     "spyware": {
       "domains": 0,
@@ -38,9 +38,9 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     "crypto": {
-      "domains": 132653,
+      "domains": 132651,
       "parts": 1,
-      "sha256": "89a9b2be7ce17f61d228235ae37345a384214f3573f42481c15759ed1e211f2f"
+      "sha256": "b8d8e055b83e88bb41769f73534f45c0c79015996f0ff267a2847ea6b823e010"
     },
     "cryptoscams": {
       "domains": 1396383,
@@ -48,19 +48,19 @@
       "sha256": "67a0900988d826f94cbf9a3cab63ed66ce477707c67ad2a8d475d6e4f369553e"
     },
     "gambling": {
-      "domains": 2713929,
+      "domains": 2713930,
       "parts": 5,
-      "sha256": "efa2c6a10c6fa6f639da0f3536008734545e34cd98bdb1e795a14c2339e2c9fa"
+      "sha256": "c87b189d166f269d0c0d3f7fb19c6316dd141befb5d561d756fcad81189cb442"
     },
     "porn": {
-      "domains": 8300150,
+      "domains": 8300149,
       "parts": 14,
-      "sha256": "e9c5f87fe83f7a52d2791f185c1ad675c85d77d3d28949f779725693f70a82c3"
+      "sha256": "e1f16aad805d1b3d1e1d1ea2e103c1c2ef9515d575e8a2ed6248e34965ce5b4d"
     },
     "custom": {
-      "domains": 30,
+      "domains": 29,
       "parts": 1,
-      "sha256": "d2e810c157e661cef9e0a64890c73af99d4cdb24080a77255a5e2780a5fa27ec"
+      "sha256": "f11f531e551fa2492666df662d539d31bcfaf0865855fe097a865ac00a1d461b"
     }
   }
 }

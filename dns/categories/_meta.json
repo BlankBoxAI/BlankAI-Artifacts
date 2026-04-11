@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-04-11T11:58:07Z",
+  "generated_utc": "2026-04-11T12:51:01Z",
   "max_part_bytes": 47185920,
   "categories": {
     "ads": {
-      "domains": 1323000,
+      "domains": 1323005,
       "parts": 3,
-      "sha256": "4afab0557587397ffbb58ad0003210b1fd93bc6f107f1842544facfe0eb467e4"
+      "sha256": "de1c7a55436e82bad71832b4888eec22c9f0fddc3e90585853ae661dc611ba31"
     },
     "trackers": {
       "domains": 1461784,
@@ -13,14 +13,14 @@
       "sha256": "07f06546f46cfe28c3e22edf879cc4b3032dd35254ed2a3c3bc1729dcf929826"
     },
     "telemetry": {
-      "domains": 79,
+      "domains": 78,
       "parts": 1,
-      "sha256": "8006f0a09205b71d381457cf4bd4e058c6238dec3b71af5fe8619e45a93d0062"
+      "sha256": "dd69938110f0a12a90b7ddbe8f7683d0db9a12a5af7c1313a9a03a5013d68312"
     },
     "malware": {
-      "domains": 1824675,
+      "domains": 1824676,
       "parts": 3,
-      "sha256": "d34c19cb08c00abdc542fe28ab9377c95f2664222f77f776e71eda5ba21c1d79"
+      "sha256": "a6a510a10d208a7d209a61472b2b782e565419ce08b21e99c4224e74c741f19d"
     },
     "phishing": {
       "domains": 2,
@@ -30,7 +30,7 @@
     "scam": {
       "domains": 16,
       "parts": 1,
-      "sha256": "d89665f0aab5d392df560e209cf62baba8ae062263a0c00799de09e8a4dcdfec"
+      "sha256": "f0d520adecab0f9b963628558ddc8efd8528cdf77073976c99e2ab72495810bc"
     },
     "spyware": {
       "domains": 1,
@@ -40,7 +40,7 @@
     "crypto": {
       "domains": 136733,
       "parts": 1,
-      "sha256": "bdcb314f897521861fe287b74c2b2bb45c228adaacbde6c0c8d4fbcfc75d77f8"
+      "sha256": "579447bfeaadca6a5a4bc93e34d153dc75969cd299d510e5bbf0e69566de719e"
     },
     "cryptoscams": {
       "domains": 1430850,
@@ -58,9 +58,9 @@
       "sha256": "9577c207d88eeea33041aacdcb91064e3c70f40236171e66ac2062d790d53005"
     },
     "custom": {
-      "domains": 23,
+      "domains": 21,
       "parts": 1,
-      "sha256": "162072e63c34ebc64196ac6a7306d283ef9e5069dbaba4443adaf05b6141af80"
+      "sha256": "0ccbfd1a497471a2b657587469ba8e81f3ee5bca9ceb18e7a059fd9dd3218ebb"
     }
   }
 }
